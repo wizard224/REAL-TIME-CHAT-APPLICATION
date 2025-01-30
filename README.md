@@ -1,12 +1,37 @@
-# REAL-TIME-CHAT-APPLICATION
-COMPANY: CODTECH IT SOLUTIONS
+# MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
 
-NAME: SOOJAL SATAPATHY
+![Demo App](https://i.ibb.co/fXmZdnz/Screenshot-10.png)
 
-INTERN ID: CT08IRN
+[Video Tutorial on Youtube](https://youtu.be/HwCqsOis894)
 
-DOMAIN: FRONT END DEVELOPMENT
+Some Features:
 
-BATCH DURATION: JAN 5TH, 2025 to FEB 5th, 2025
+-   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+-   🎃 Authentication && Authorization with JWT
+-   👾 Real-time messaging with Socket.io
+-   🚀 Online user status (Socket.io and React Context)
+-   👌 Global state management with Zustand
+-   🐞 Error handling both on the server and on the client
+-   ⭐ At the end Deployment like a pro for FREE!
+-   ⏳ And much more!
 
-MENTOR NAME: NEELA SANTHOSH
+### Setup .env file
+
+```js
+PORT=...
+MONGO_DB_URI=...
+JWT_SECRET=...
+NODE_ENV=...
+```
+
+### Build the app
+
+```shell
+npm run build
+```
+
+### Start the app
+
+```shell
+npm start
+```
